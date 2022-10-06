@@ -1,0 +1,40 @@
+
+img {
+    width: 4%;
+    height: auto;
+  }
+
+  body {
+    background: white;
+    margin: 0;
+  }
+
+  .header {
+    border-bottom: solid 1px rgb(240, 240, 240);
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .subheader {
+    border-bottom: solid 1px rgb(240, 240, 240);
+    background: rgb(240, 240, 240);
+  }
+
+  .vergrootglas {
+    height: 2.5em;
+    width: 2.5em;
+    margin-left: 0.5em;
+    padding-left: 1.2em;
+    padding-right: 1em;
+  }
+
+  .zoekbalk {
+    display: flex;
+    align-items: center;
+  }
+
+  .text-zoekbalk {
+    border-style: none;
+    width: 105em;
+    background: rgb(240, 240, 240);
+  }
