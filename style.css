@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 
 img {
     height: 3.5em;
@@ -6,6 +9,7 @@ img {
   body {
     background: white;
     margin: 0;
+    width: 100%;
   }
 
   header:first-of-type {
@@ -14,6 +18,7 @@ img {
     padding-right: 1em;
     display: flex;
     justify-content: space-between;
+    width: 100%
   }
 
 svg {
@@ -23,6 +28,7 @@ svg {
  header:last-of-type {
     border-bottom: solid 1px rgb(240, 240, 240);
     background: rgb(240, 240, 240);
+    width: 100%
   }
 
   .vergrootglas {
@@ -51,8 +57,8 @@ svg {
 
   .grid-container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 300px 300px 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 300px 300px 1fr;
     grid-gap: 10px;
     margin-left: 1em;
     margin-right: 1em;
@@ -61,4 +67,9 @@ svg {
   .grid-item {
 
     background: rgb(225, 225, 225)
+  }
+
+  .afbeelding {
+    height: 18.5em;
+    width: 32em;
   }
