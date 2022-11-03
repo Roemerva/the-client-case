@@ -12,6 +12,6 @@ Ik heb een navigatie gebouwd met een goed overzicht. De keuze van visuele werkvo
 
 ## Responsive
 
-Ook is de website responsive zodat het voor mobiele gebruikers ook werkt.
+Ook is de website responsive zodat het voor mobiele gebruikers ook werkt. De 3 kolommen van visuele werkvormen veranderen naar 1 kolom.
 
 ![Visual Thinking mobile](https://user-images.githubusercontent.com/112856001/199708308-b3fa5ca4-e1aa-4d8b-9e6d-3ccfabe97108.png)
